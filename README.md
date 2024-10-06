@@ -1,4 +1,4 @@
-# 🔐 Getting your account token
+# 🔐 Obtaining your account token
 1. Open up a telegram on your web browser and Hamster Kombat bot, press play.
 2. It must give you error `You can play only on mobile`, here is the part where magic comes in!
 3. Open your Developer tools, press `Select element` button on top of dev. tools and hover over that mini web app. It must show you `iframe` tag.
